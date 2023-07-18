@@ -1,0 +1,3 @@
+<?php 
+/*COPIAR E COLAR AQUI INSERT.PHP*/ 
+?>
